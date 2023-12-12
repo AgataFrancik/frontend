@@ -8,6 +8,7 @@ import {
   googleAuthenticate,
 } from "../actions/auth";
 import queryString from 'query-string'
+import UserJobOffer from "./userJobOffer/UserJobOffer";
 
 const Layout = (props) => {
   let location = useLocation();
@@ -27,6 +28,7 @@ const Layout = (props) => {
   return (
     <div>
       <Navbar />
+      <UserJobOffer />
       {props.children}
     </div>
   );
