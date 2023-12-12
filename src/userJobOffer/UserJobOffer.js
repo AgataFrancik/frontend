@@ -85,7 +85,7 @@ const UserJobOffer = ({ get_user_jobs, isAuthenticated, action }) => {
 
   return (
     <Box width="100%" display="flex" justifyContent="center" marginTop="3rem">
-      { isAuthenticated ? (
+      {/* isAuthenticated ? ( */}
         <Paper sx={{ width: "85%" }}>
           <Link
             to="/addOffer"
@@ -159,7 +159,7 @@ const UserJobOffer = ({ get_user_jobs, isAuthenticated, action }) => {
             ))}
             <video src={video}/>
         </Paper>
-      ) : (
+      {/* }) : (
         <Box>
           <Typography>YOU NEED TO BE LOGGED TO USE THIS SITE</Typography>
           <Typography variant="caption" sx={{ marginTop: "1.5rem" }}>
@@ -182,7 +182,7 @@ const UserJobOffer = ({ get_user_jobs, isAuthenticated, action }) => {
             </Link>
           </Typography>
         </Box>
-      )}
+      )*/}
     </Box>
   );
 };
