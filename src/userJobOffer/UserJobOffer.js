@@ -64,7 +64,7 @@ const jobs = [
 const UserJobOffer = ({ get_user_jobs, isAuthenticated, action }) => {
   const [search, setSearch] = useState("");
   //const [jobs, setJobs] = useState([]);
-  const userId = useSelector((state) => state.auth.user.id);
+  //const userId = useSelector((state) => state.auth.user.id);
 
   // useEffect(() => {
   //   if(isAuthenticated){
