@@ -24,12 +24,12 @@ function App() {
       <Provider store={store}>
         <Layout>
           <Routes>
-            <Route exact path="/" element={<HomePage />} />
+            <Route exact path="/" element={<UserJobOffer  />} />
             <Route exact path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/settings" element={<AccountSettings />} />
             <Route path="/allOffers" element={<JobOffers />} />
-            <Route path="/userOffers" element={<UserJobOffer />} />
+            <Route path="/userOffers" element={<HomePage />} />
             <Route path="/addJobOffer" element={<AddJobOffer />} />
             <Route path="/offerDetails/:id" element={<JobOfferDetails />} />
             <Route path="/addOffer" element={<AddJobOffer />} />
