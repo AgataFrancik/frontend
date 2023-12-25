@@ -17,9 +17,9 @@ import api from '../api/posts';
 import { connect } from 'react-redux';
 import { get_user_jobs } from "../actions/auth";
 import image from '../utils/Anser_anser_1_(Piotr_Kuczynski).jpg'
-import image2 from '../utils/gabrielle-genevieve-goose-chase.gif'
+import image2 from '../utils/gabrielle-genevieve-goose-chase.mp4'
 import image3 from '../utils/goose-4097083626-1562689760284.jpg'
-import image4 from '../utils/goose-dance.gif'
+import image4 from '../utils/goose-dance.mp4'
 
 
 const jobs = [
