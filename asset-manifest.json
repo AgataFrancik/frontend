@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/frontend/static/css/main.f855e6bc.css",
-    "main.js": "/frontend/static/js/main.d63df06d.js",
+    "main.js": "/frontend/static/js/main.4372652f.js",
     "static/js/787.9e9f4ffd.chunk.js": "/frontend/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/planeta.mp4": "/frontend/static/media/planeta.b16b5b2ff579a8d2396c.mp4",
     "static/media/goose-dance.gif": "/frontend/static/media/goose-dance.db734871adfb74ecff41.gif",
     "static/media/Anser_anser_1_(Piotr_Kuczynski).jpg": "/frontend/static/media/Anser_anser_1_(Piotr_Kuczynski).9f8a5c785ae3a021b552.jpg",
     "static/media/goose-4097083626-1562689760284.jpg": "/frontend/static/media/goose-4097083626-1562689760284.b5454b1551a4690acc3d.jpg",
@@ -11,11 +10,11 @@
     "static/media/biuro.jpg": "/frontend/static/media/biuro.4b2fca64a2c9ff2cc4c8.jpg",
     "index.html": "/frontend/index.html",
     "main.f855e6bc.css.map": "/frontend/static/css/main.f855e6bc.css.map",
-    "main.d63df06d.js.map": "/frontend/static/js/main.d63df06d.js.map",
+    "main.4372652f.js.map": "/frontend/static/js/main.4372652f.js.map",
     "787.9e9f4ffd.chunk.js.map": "/frontend/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d63df06d.js"
+    "static/js/main.4372652f.js"
   ]
 }
