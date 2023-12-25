@@ -1,6 +1,5 @@
 import { Box, Button, Paper, Typography } from "@mui/material";
 import React, { useState } from "react";
-import AuthContext from "../context/authProvider";
 import {Navigate} from "react-router-dom";
 import { connect } from "react-redux";
 import { verify } from "../actions/auth";

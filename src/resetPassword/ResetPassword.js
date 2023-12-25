@@ -1,7 +1,6 @@
 import { Box, Button, Paper, TextField, Typography } from "@mui/material";
-import React, { useEffect, useRef, useState, useContext } from "react";
-import AuthContext from "../context/authProvider";
-import { Link, Navigate} from "react-router-dom";
+import React, { useState} from "react";
+import { Navigate} from "react-router-dom";
 import { connect } from "react-redux";
 import { password_reset } from "../actions/auth";
 

@@ -14,13 +14,13 @@ import SearchIcon from "@mui/icons-material/Search";
 import DeleteIcon from "@mui/icons-material/Delete";
 import { Link } from "react-router-dom";
 import api from '../api/posts';
-import { connect, useSelector } from 'react-redux';
+import { connect } from 'react-redux';
 import { get_user_jobs } from "../actions/auth";
 import image from '../utils/Anser_anser_1_(Piotr_Kuczynski).jpg'
 import image2 from '../utils/gabrielle-genevieve-goose-chase.gif'
 import image3 from '../utils/goose-4097083626-1562689760284.jpg'
 import image4 from '../utils/goose-dance.gif'
-import video  from '../utils/planeta.mp4'
+
 
 const jobs = [
   {
@@ -157,7 +157,7 @@ const UserJobOffer = ({ get_user_jobs, isAuthenticated, action }) => {
                 </CardActions>
               </Card>
             ))}
-            <video src={video}/>
+            
         </Paper>
       {/* }) : (
         <Box>
