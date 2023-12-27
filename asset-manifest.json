@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/frontend/static/css/main.f855e6bc.css",
-    "main.js": "/frontend/static/js/main.b17566e3.js",
+    "main.js": "/frontend/static/js/main.60ca8ea4.js",
     "static/js/787.9e9f4ffd.chunk.js": "/frontend/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/goose-4097083626-1562689760284.webp": "/frontend/static/media/goose-4097083626-1562689760284.93c4f1420b48c1ff0c84.webp",
-    "static/media/Anser_anser_1__Piotr_Kuczynski_.webp": "/frontend/static/media/Anser_anser_1__Piotr_Kuczynski_.37059a385af39306bbc4.webp",
+    "static/media/Anser_anser_1_(Piotr_Kuczynski).jpg": "/frontend/static/media/Anser_anser_1_(Piotr_Kuczynski).9f8a5c785ae3a021b552.jpg",
+    "static/media/goose-4097083626-1562689760284.jpg": "/frontend/static/media/goose-4097083626-1562689760284.b5454b1551a4690acc3d.jpg",
     "static/media/goose-dance2-mp4.mp4": "/frontend/static/media/goose-dance2-mp4.a9039f262e6727ac4974.mp4",
     "static/media/biuro.jpg": "/frontend/static/media/biuro.4b2fca64a2c9ff2cc4c8.jpg",
     "static/media/goose-dance-mp4.mp4": "/frontend/static/media/goose-dance-mp4.4b6ce82688f0b2a78591.mp4",
     "index.html": "/frontend/index.html",
     "main.f855e6bc.css.map": "/frontend/static/css/main.f855e6bc.css.map",
-    "main.b17566e3.js.map": "/frontend/static/js/main.b17566e3.js.map",
+    "main.60ca8ea4.js.map": "/frontend/static/js/main.60ca8ea4.js.map",
     "787.9e9f4ffd.chunk.js.map": "/frontend/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b17566e3.js"
+    "static/js/main.60ca8ea4.js"
   ]
 }
